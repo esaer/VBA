@@ -20,7 +20,7 @@ Stocks which saw higher returns in 2018 vs 2017: Run, TERP
 
 ### Execution times of the original script and the refactored script 
 Execution times for 2018 of the refactored script is 0.59 seconds, which is much quicker than that of the original script which is 14.55 seconds. 
-Execution times for 2017 of the refactored script is 0.59 seconds, which is much quicker than that of the original script which is 93 seconds. 
+Execution times for 2017 of the refactored script is 0.14 seconds, which is much quicker than that of the original script which is 93 seconds. 
 
 ## Summary 
 - What are the advantages and disadvantages of refactoring code 

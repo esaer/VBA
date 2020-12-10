@@ -8,6 +8,10 @@ Help Steve compare the stock performance across a list of tickers in both 2017 a
 
 ## Results
 
+### 2018 vs 2017
+Stocks which were traded more in 2018 vs 2017 : DQ, ENPH, HASI, RUN, SEDG, TERP, VSLR
+Stocks which saw higher returns in 2018 vs 2017: Run, TERP
+
 ### Analysis of 2018 Stock Performance 
 ![](https://github.com/esaer/VBA/blob/main/2018.PNG)
 

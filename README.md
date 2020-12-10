@@ -9,10 +9,10 @@ Help Steve compare the stock performance across a list of tickers in both 2017 a
 ## Results
 
 ### Analysis of 2018 Stock Performance 
-![](https://github.com/esaer/Kickstarter-analysis/raw/main/Theater_Outcomes_vs_Launch.png)
+![](https://github.com/esaer/VBA/blob/main/2018.PNG)
 
 ### Analysis of 2017 Stock Performance
-![](https://github.com/esaer/Kickstarter-analysis/raw/main/Outcome%20based%20on%20Goal.png)
+![](https://github.com/esaer/VBA/blob/main/2017.PNG)
 
 ### Execution times of the original script and the refactored script 
 
